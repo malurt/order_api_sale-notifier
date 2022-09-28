@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MaluRibeiro08/order_api_sale-notifier/issues"
   },
-  "homepage": "https://github.com/MaluRibeiro08/order_api_sale-notifier#readme"
+  "homepage": "https://github.com/MaluRibeiro08/order_api_sale-notifier#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.2.1"
+  }
 }
