@@ -33,6 +33,8 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
-    "amqplib": "^0.10.3"
+    "amqplib": "^0.10.3",
+    "winston": "^3.8.2",
+    "winston-mongodb": "^5.1.0"
   }
 }
